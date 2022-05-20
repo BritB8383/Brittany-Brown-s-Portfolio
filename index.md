@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As an aspiring data analyst, I have collected my various projects to present them in this portfolio. I have followed Alex Freberg's Youtube series to accomplish many of these projects. 
+As an aspiring data analyst, I have collected my various projects to present them in this portfolio. These projects come from my experience with the Google Data Analytics Professional Certificate and from Alex Freberg's Youtube series. 
 
 ### Excel Project
 
